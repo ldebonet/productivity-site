@@ -1,5 +1,5 @@
 import { AppRegistry } from "react-native";
-import App from "../static/App";
+import App from "./App";
 
 console.log("Testing!")
 

@@ -1,7 +1,7 @@
 import React from "react";
 import { Button, Image, StyleSheet, Text, View } from "react-native";
 import {observer} from 'mobx-react';
-import UserStore from '../stores/UserStore';
+import UserStore from './UserStore';
 import LoginForm from './LoginForm';
 
 console.log("App Run");
